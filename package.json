@@ -1,0 +1,9 @@
+{
+  "name": "github-profile-readme",
+  "version": "1.0.0",
+  "description": "Glassmorphism GitHub profile generator using readme-aura",
+  "scripts": {
+    "build": "readme-aura build"
+  },
+  "dependencies": {}
+}
