@@ -27,6 +27,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=masudDev03&theme=tokyo-night&hide_border=true" />
 </p>
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=masudDev03)](https://github.com/ryo-ma/github-profile-trophy)
+
 ***
 
 <div align="center">
