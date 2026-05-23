@@ -8,6 +8,8 @@
 
 ***
 
+<img src="https://github.com/masudDev03.png" width="200" height="200" style="border-radius: 50%;" alt="My Profile Picture">
+
 ## 📊 GitHub Statistics
 
 <p align="center">
