@@ -53,7 +53,12 @@
    transform="translate(133,83) scale(0.52)"
    fill="#7dd3fc">
 
-  <path d="M1.5 0L3.2 19.5L12 22L20.8 19.5L22.5 0H1.5ZM18.5 6H7.5L7.8 8.4H18.2L17.6 15.2L12 16.8L6.4 15.2L6.1 11.5H8.5L8.7 13L12 14L15.3 13L15.6 10H5.8L5 4H18.9L18.5 6Z"/>
+  <!-- Shield -->
+  <path d="M1.5 0L3.2 19.5L12 22L20.8 19.5L22.5 0H1.5Z"/>
+
+  <!-- CSS layers -->
+  <path fill="#0a0b10"
+        d="M6 4H18L17.5 6H8L8.3 9H17L16.3 15L12 16.5L7.7 15L7.4 12H9.5L9.7 13.5L12 14.2L14.3 13.5L14.6 10.8H6.2L5.5 4Z"/>
 
 </g>
 <text x="147" y="98" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="600" fill="#7dd3fc" clip-path="url(#satori_cp-id)">CSS3</text>
